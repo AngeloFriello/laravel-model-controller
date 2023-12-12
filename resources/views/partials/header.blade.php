@@ -5,15 +5,7 @@
                 <div>
                     </div>
                         <ul class="d-flex gap-3">
-                            <li></li>
                             <li>PAGINA PROVA</li>
-                            <li>movies</li>
-                            <li>movies</li>
-                            <li>movies</li>
-                            <li>movies</li>
-                            <li>movies</li>
-                            <li>movies</li>
-                            <li>movies</li>
                             <li>movies</li>
                         </ul>
                     <div>
